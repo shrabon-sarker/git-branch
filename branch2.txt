@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a craete file branch2 
+=======
+this is a craete file branch2
+>>>>>>> branch1
